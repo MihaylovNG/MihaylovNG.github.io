@@ -17,11 +17,11 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="71" column="85" lean-forward="false" selection-start-line="71" selection-start-column="85" selection-end-line="71" selection-end-column="85" />
+            <state relative-caret-position="497">
+              <caret line="62" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
               <folding>
-                <element signature="e#3857#3864#0" expanded="true" />
-                <element signature="e#4115#4121#0" expanded="true" />
+                <element signature="e#2970#2977#0" expanded="true" />
+                <element signature="e#3228#3234#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -30,11 +30,11 @@
       <file leaf-file-name="indexlogged.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/indexlogged.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="339">
-              <caret line="23" column="34" lean-forward="false" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="34" />
+            <state relative-caret-position="533">
+              <caret line="63" column="0" lean-forward="false" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
               <folding>
-                <element signature="e#3723#3730#0" expanded="true" />
-                <element signature="e#3941#3947#0" expanded="true" />
+                <element signature="e#2856#2863#0" expanded="true" />
+                <element signature="e#3074#3080#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -43,11 +43,11 @@
       <file leaf-file-name="viewpost.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/viewpost.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="417">
-              <caret line="71" column="78" lean-forward="false" selection-start-line="71" selection-start-column="78" selection-end-line="71" selection-end-column="78" />
+            <state relative-caret-position="500">
+              <caret line="62" column="0" lean-forward="false" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
               <folding>
-                <element signature="e#3640#3647#0" expanded="true" />
-                <element signature="e#3858#3864#0" expanded="true" />
+                <element signature="e#2773#2780#0" expanded="true" />
+                <element signature="e#2991#2997#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -56,7 +56,7 @@
       <file leaf-file-name="createnewpost.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/createnewpost.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-202">
+            <state relative-caret-position="91">
               <caret line="25" column="43" lean-forward="false" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
               <folding>
                 <element signature="e#2766#2772#0" expanded="true" />
@@ -80,8 +80,8 @@
       <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/login.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="169">
-              <caret line="45" column="25" lean-forward="true" selection-start-line="45" selection-start-column="25" selection-end-line="45" selection-end-column="25" />
+            <state relative-caret-position="754">
+              <caret line="45" column="25" lean-forward="false" selection-start-line="45" selection-start-column="25" selection-end-line="45" selection-end-column="25" />
               <folding>
                 <element signature="e#2336#2342#0" expanded="true" />
               </folding>
@@ -115,11 +115,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/styles.css" />
-        <option value="$PROJECT_DIR$/indexlogged.html" />
         <option value="$PROJECT_DIR$/login.html" />
         <option value="$PROJECT_DIR$/createnewpost.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/register.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/indexlogged.html" />
         <option value="$PROJECT_DIR$/viewpost.html" />
       </list>
     </option>
@@ -158,6 +158,11 @@
             <path>
               <item name="HTMLandCSS_Blog" type="b2602c69:ProjectViewProjectNode" />
               <item name="HTMLandCSS_Blog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HTMLandCSS_Blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HTMLandCSS_Blog" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -198,12 +203,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1521369048089</updated>
-      <workItem from="1521369049219" duration="16307000" />
+      <workItem from="1521369049219" duration="19145000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16307000" />
+    <option name="totallyTimeSpent" value="19145000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -259,7 +264,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/createnewpost.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-202">
+        <state relative-caret-position="91">
           <caret line="25" column="43" lean-forward="false" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
           <folding>
             <element signature="e#2766#2772#0" expanded="true" />
@@ -269,30 +274,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="71" column="85" lean-forward="false" selection-start-line="71" selection-start-column="85" selection-end-line="71" selection-end-column="85" />
+        <state relative-caret-position="497">
+          <caret line="62" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
           <folding>
-            <element signature="e#3857#3864#0" expanded="true" />
-            <element signature="e#4115#4121#0" expanded="true" />
+            <element signature="e#2970#2977#0" expanded="true" />
+            <element signature="e#3228#3234#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/indexlogged.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
-          <caret line="23" column="34" lean-forward="false" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="34" />
+        <state relative-caret-position="533">
+          <caret line="63" column="0" lean-forward="false" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
           <folding>
-            <element signature="e#3723#3730#0" expanded="true" />
-            <element signature="e#3941#3947#0" expanded="true" />
+            <element signature="e#2856#2863#0" expanded="true" />
+            <element signature="e#3074#3080#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/login.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="45" column="25" lean-forward="true" selection-start-line="45" selection-start-column="25" selection-end-line="45" selection-end-column="25" />
+        <state relative-caret-position="754">
+          <caret line="45" column="25" lean-forward="false" selection-start-line="45" selection-start-column="25" selection-end-line="45" selection-end-column="25" />
           <folding>
             <element signature="e#2336#2342#0" expanded="true" />
           </folding>
@@ -311,11 +316,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/viewpost.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="417">
-          <caret line="71" column="78" lean-forward="false" selection-start-line="71" selection-start-column="78" selection-end-line="71" selection-end-column="78" />
+        <state relative-caret-position="500">
+          <caret line="62" column="0" lean-forward="false" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
           <folding>
-            <element signature="e#3640#3647#0" expanded="true" />
-            <element signature="e#3858#3864#0" expanded="true" />
+            <element signature="e#2773#2780#0" expanded="true" />
+            <element signature="e#2991#2997#0" expanded="true" />
           </folding>
         </state>
       </provider>
